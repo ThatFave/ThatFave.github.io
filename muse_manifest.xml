@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thatfave.github.io" resolutions="1x" timestamp="1498063143894">
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thatfave.github.io" resolutions="1x" timestamp="1498063567226">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4099751814" ref="index"/>
+    <file name="index.css" crc="172061797" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,9 +12,9 @@
     <file name="require.js" crc="85721165" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="space_flight_sky_stars_82970_1920x1080-crop-u385.jpg" crc="411733157" seo="true" ref="index">
+    <file name="space_flight_sky_stars_82970_1920x1080.jpg" crc="4268243166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3787216699" seo="true" mt="1498063128308" redirect="true"/>
+  <file name="index.html" crc="3782843104" seo="true" mt="1498063557728" redirect="true"/>
 </manifest>

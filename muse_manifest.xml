@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thatfave.github.io" resolutions="1x" timestamp="1498063567226">
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thatfave.github.io" resolutions="1x" timestamp="1498065631411">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="172061797" ref="index"/>

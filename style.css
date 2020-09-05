@@ -55,7 +55,7 @@ canvas {
 #main {
 	width: 600px;
 	float: right;
-	
+	padding: 0;
 }
 
 

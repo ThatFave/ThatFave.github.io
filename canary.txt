@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+I am Fave (fave@disroot.org).
+I am in control of my PGP key.
+I will update this canary within 14 days.
+Today is 2021-05-12.
+
+Latest bitcoin block hash:
+00000000000000000003cf9bf1784fe790b9b6afd2f7bafadbaaaf2f0b6a2b81
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEZBdcio0OUXt+Eg3EsSq26TZOAPUFAmCiJCUACgkQsSq26TZO
+APXkNQ//T4I33NofLxZf6hrjHY3VgLCeoHXhp13ax0qspv+5nj5s9vqqRv6+0oSj
+1HRnrKa3hKZ6TczNLWlhZB3LDCNdkJTzFc0/d+Re+K2HxTanr7mjKz2rDbj/GzoE
+Kj97UDh8ZOTMta1LzHJS0LvJstNvK7u+cLTO3FUBSIsXeORXADY59irbNw5vF4FX
+iDWs8+n9MolDjG1QjZN46kaE6XlVH9Nx417SuPB7r+8OZhvFta529259LXZrIaxj
+UsQNboA3NPqaO/Td3G/hgTsxtclK7yqf0ZsR9dNfsbhDNjUGMTabzXU53rz4EEed
+1YujveTwN9b2fjeKj2cwLjFWl8/FBSOm7VMIni5LtSOqcQaj+MGDiyT6AeILYy8U
+phpZ9uiMSgeIRjmRIQnBMpAxTKXWmHF/X3k/IqC+kAbSEQfPYwW6keyXTyG4pSla
+7Sz3UotFuyBDw+I+sI+nvMYXFbzdjBAPrTzzavPQYFsZLrMgakegY5ajiqnvEziN
+WcisPXSFW6dewFb4Fw6aONhMLkBh0dOx+Q7U6K+zyXznlUerN7bkj3ZPMWU+MCKU
+BPbBEheM0fgDqTHKn8bipbckVaECR2h06SH9SlATWJdMH9uaAubdIG8NsdJEIEmo
+FF7yEV0w6Rtc01RQfU1oz6Kg7UJF83fOQdfXvHsXuvAtA821bMc=
+=m1ay
+-----END PGP SIGNATURE-----

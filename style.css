@@ -2,8 +2,8 @@ body {
 	background-color: #EEEEEE;
 	font-family: Helvetica, Arial, sans-serif;
 	background-image: url(pics/duene.jpg);
-    background-attachment: fixed;
-    background-size: 100% 100%;
+	background-attachment: fixed;
+	background-size: 100% 100%;
 }
 
 a {
